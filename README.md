@@ -1,4 +1,4 @@
-![](resources/images/Logo Page.gif)
+![Logo Page](resources/images/LogoPage.gif)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/francis-mark-cayco-33511a190/">
