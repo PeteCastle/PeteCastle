@@ -1,5 +1,7 @@
-### Hi there 👋
 
+![](resources/images/2023-04-30-11-32-19.png)
+
+### Hi there 👋
 <!--
 **PeteCastle/PeteCastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
