@@ -1,5 +1,5 @@
 ![](resources/images/2023-04-30-11-32-19.png)
-### MyTech Stack
+### My Tech Stack
 #### Languages 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python) 
 ![C++](https://img.shields.io/badge/c++-white?style=for-the-badge&logo=cplusplus&logoColor=black) 
@@ -36,6 +36,26 @@
 ![HTML5](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black)
 ![CSS3](https://img.shields.io/badge/REST%20APIs-white?style=for-the-badge&logo=API)
+
+
+<div align="center">
+    <h2> Checkout my <b>stats</b>! </h2>
+    <a href="https://git.io/streak-stats">
+        <img align="center" src="https://streak-stats.demolab.com/?user=PeteCastle" alt="PeteCastle Stats" />
+    </a>
+    <h3> What languages do I code? </h3>
+    <a href="https://git.io/streak-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeteCastle&layout=compact&langs_count=10&theme=radical" alt="PeteCastle Programs" />
+    </a>
+    <h3> What am I playing rn? </h3>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12178771853&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="PeteCastle's Music" />
+    </a>
+
+    
+
+</div>
+
 
 <!--
 **PeteCastle/PeteCastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
