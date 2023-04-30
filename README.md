@@ -1,4 +1,24 @@
-![](resources/images/2023-04-30-11-32-19.png)
+![](resources/images/Logo Page.gif)
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/francis-mark-cayco-33511a190/">
+        <img align="center" src="https://img.shields.io/badge/-blue?style=social&logo=linkedin&logoColor=blue" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCqktL_sOtbr6cNX2me4us5A">
+        <img align="center" src="https://img.shields.io/badge/-blue?style=social&logo=youtube&logoColor=red" />
+    </a>
+    <a href="mailto:francis_mark_cayco@yahoo.com">
+        <img align="center" src="https://img.shields.io/badge/-blue?style=social&logo=yahoo" alt="yahoo">
+    </a>
+
+</p>
+
+Hi! I'm Francis Mark and programming is my passion.
+
+I'm currently a 3rd year student at Pamantasan ng Lungsod ng Maynila taking up BS Computer Engineering. I'm currently learning and wants to specialize about Data Science and Engineering. Backend webdev is also one of my interests.
+
+Outside of programming, I'm also a gamer🎮 (esp AAA games) and a cyclist🚲.
+
 ### My Tech Stack
 #### Languages 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python) 
@@ -55,19 +75,3 @@
     
 
 </div>
-
-
-<!--
-**PeteCastle/PeteCastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
