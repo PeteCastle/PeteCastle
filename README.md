@@ -15,7 +15,7 @@
 
 Hi! I'm Francis Mark and programming is my passion.
 
-I'm currently a 3rd year student at Pamantasan ng Lungsod ng Maynila taking up BS Computer Engineering. I'm currently learning and wants to specialize about Data Science and Engineering. Backend webdev is also one of my interests.
+I'm currently a 4th year student at Pamantasan ng Lungsod ng Maynila taking up BS Computer Engineering. I'm currently learning and wants to specialize about Data Science and Engineering. Backend webdev is also one of my interests.
 
 Outside of programming, I'm also a gamer🎮 (esp AAA games) and a cyclist🚲.
 
