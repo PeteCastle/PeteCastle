@@ -55,7 +55,9 @@ Outside of programming, I'm also a gamer🎮 (esp AAA games) and a cyclist🚲.
 #### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black)
-![CSS3](https://img.shields.io/badge/REST%20APIs-white?style=for-the-badge&logo=API)
+![REST Apis](https://img.shields.io/badge/REST%20APIs-white?style=for-the-badge&logo=API)
+![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django)
+![HTMX](https://img.shields.io/badge/HTMX-white?style=for-the-badge&logo=htmx)
 
 
 <div align="center">
