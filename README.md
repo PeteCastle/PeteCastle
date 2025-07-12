@@ -1,5 +1,6 @@
 ![Logo Page](resources/images/LogoPage.gif)
 
+## OUTDATED.  Will be updated soon :)
 <p align="center">
     <a href="https://www.linkedin.com/in/francis-mark-cayco-33511a190/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=blue" />
